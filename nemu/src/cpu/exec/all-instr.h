@@ -16,7 +16,7 @@
 
 #include "arith/call.h"
 #include "arith/push.h"
-#include "arith/test.h"
+#include "logic/test.h"
 
 #include "logic/and.h"
 #include "logic/or.h"
