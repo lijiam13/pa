@@ -15,6 +15,7 @@
 #include "arith/div.h"
 
 #include "con-trans/call.h"
+#include "con-trans/je.h"
 #include "data-mov/push.h"
 #include "logic/test.h"
 
