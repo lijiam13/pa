@@ -14,6 +14,10 @@
 #include "arith/idiv.h"
 #include "arith/div.h"
 
+#include "arith/call.h"
+#include "arith/push.h"
+#include "arith/test.h"
+
 #include "logic/and.h"
 #include "logic/or.h"
 #include "logic/not.h"
