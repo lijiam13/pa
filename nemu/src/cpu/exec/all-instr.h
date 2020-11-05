@@ -14,8 +14,8 @@
 #include "arith/idiv.h"
 #include "arith/div.h"
 
-#include "arith/call.h"
-#include "arith/push.h"
+#include "con-trans/call.h"
+#include "data-mov/push.h"
 #include "logic/test.h"
 
 #include "logic/and.h"
