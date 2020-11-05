@@ -14,6 +14,7 @@
 #include "arith/idiv.h"
 #include "arith/div.h"
 
+#include "arith/cmp.h"
 #include "con-trans/call.h"
 #include "con-trans/je.h"
 #include "data-mov/push.h"
